@@ -87,7 +87,6 @@ jupyter notebook Proyecto_inmobiliaria_en_Mexico_y_New_York.ipynb
 
 ## Próximos pasos
 
-- Probar modelos de gradient boosting (XGBoost/LightGBM) ahora que se confirmó que la relación es mayormente lineal pero con posibles interacciones no capturadas.
-- Incorporar más variables de contexto de mercado por ciudad/país (tasas de interés, oferta-demanda local).
-- Completar la comparativa automatizada v2 vs. v3 (el bloque final del notebook tiene una tabla con valores sin rellenar que vale la pena terminar de calcular).
-- Validar el modelo con datos de una ventana temporal distinta (holdout temporal, no solo aleatorio) para confirmar que generaliza a mercado futuro y no solo a una muestra aleatoria del mismo período.
+- Incorporar más variables de contexto de mercado por ciudad/país 
+- Aplicar modelos más completos sobre un dataset mas amplio 
+
